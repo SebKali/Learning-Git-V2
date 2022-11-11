@@ -1,0 +1,40 @@
+b745dfa HEAD@{0}: revert: Revert "Commit V4"
+66ec055 HEAD@{1}: commit: Commit V4
+eabc4b6 HEAD@{2}: commit (merge): Commit v3
+ec7ce5b HEAD@{3}: pull hub branch2: Merge made by the 'ort' strategy.
+c44dd76 HEAD@{4}: merge branch2: Fast-forward
+0e2cd67 HEAD@{5}: checkout: moving from branch2 to main
+c44dd76 HEAD@{6}: commit: branch 2
+0e2cd67 HEAD@{7}: checkout: moving from main to branch2
+0e2cd67 HEAD@{8}: commit: Main V1
+126d948 HEAD@{9}: reset: moving to HEAD
+126d948 HEAD@{10}: reset: moving to HEAD
+126d948 HEAD@{11}: reset: moving to HEAD~
+5533187 HEAD@{12}: commit: ok
+126d948 HEAD@{13}: reset: moving to HEAD~
+a029080 HEAD@{14}: reset: moving to HEAD
+a029080 HEAD@{15}: reset: moving to HEAD
+a029080 HEAD@{16}: commit: Commit après reset --mixed
+126d948 HEAD@{17}: reset: moving to HEAD~
+2e400f2 HEAD@{18}: reset: moving to HEAD
+2e400f2 HEAD@{19}: reset: moving to HEAD
+2e400f2 HEAD@{20}: reset: moving to 2e400f24
+171053c HEAD@{21}: revert: Revert "Comit remplacé !"
+c1d4a43 HEAD@{22}: merge branch2: Fast-forward
+126d948 HEAD@{23}: checkout: moving from branch2 to main
+c1d4a43 HEAD@{24}: commit: Ajout fichierErronné.txt
+2e400f2 HEAD@{25}: commit (amend): Comit remplacé !
+d2c2234 HEAD@{26}: commit (amend): Comit remplacé !
+67c853c HEAD@{27}: reset: moving to 67c853cb
+eed89fa HEAD@{28}: reset: moving to HEAD
+eed89fa HEAD@{29}: checkout: moving from main to branch2
+126d948 HEAD@{30}: reset: moving to HEAD^
+67c853c HEAD@{31}: commit: Commit erroné, à annuler
+126d948 HEAD@{32}: checkout: moving from branch2 to main
+eed89fa HEAD@{33}: commit: Commit modif premierFile.txt sur branch2
+126d948 HEAD@{34}: checkout: moving from main to branch2
+126d948 HEAD@{35}: checkout: moving from branch2 to main
+126d948 HEAD@{36}: checkout: moving from main to branch2
+126d948 HEAD@{37}: reset: moving to HEAD
+126d948 HEAD@{38}: Branch: renamed refs/heads/master to refs/heads/main
+126d948 HEAD@{40}: commit (initial): création de la branch maste
